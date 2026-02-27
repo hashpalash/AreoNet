@@ -1,0 +1,15 @@
+fastapi>=0.109.2
+uvicorn[standard]>=0.27.1
+python-multipart>=0.0.9
+pillow>=10.4.0
+numpy>=1.26.4
+torch>=2.2.0
+torchvision>=0.17.0
+transformers>=4.38.1
+opencv-python>=4.9.0.80
+python-jose[cryptography]>=3.3.0
+pydantic>=2.6.1
+pydantic-settings>=2.1.0
+tqdm>=4.66.0
+datasets>=2.18.0
+accelerate>=0.28.0
