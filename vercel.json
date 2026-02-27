@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd AreoNet && npm install && npm run build",
+  "outputDirectory": "AreoNet/.next",
+  "framework": "nextjs",
+  "regions": ["iad1"]
+}
